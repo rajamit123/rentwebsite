@@ -1,0 +1,57 @@
+body{
+    background-color: aliceblue;
+}
+
+#container{
+    width: 30%;
+    height: 95vh;
+    background-color:  #c1c1f0;
+    margin: 0 auto;
+     box-shadow: 5px 10px 5px #1a1aff;
+    box-sizing: border-box;
+}
+#sign-in{
+    width: 100%;
+    font-size: 3vh;
+    height: 37vh;
+    margin: auto;
+}
+.input{
+    width: 80%;
+    height: 5vh;
+    margin: .8vh 5vh;
+    padding: 5px;
+    border: 3px solid #555;
+    box-shadow: 2px 5px 2px gray;
+}
+#sign-up{
+    font-size: 3vh;
+}
+button{
+    margin: auto;
+}
+.button1{
+    width: 30%;
+    background-color:darkred;
+    height: 7vh;
+    margin: 1vh 20vh;
+    border: 2px solid #e60000;
+    box-shadow: 2px 5px 2px gray;
+    cursor: pointer;
+    font-size: 2vh;
+}
+.button2{
+    width: 30%;
+    background-color: forestgreen;
+    height: 7vh;
+    margin:1vh 20vh;
+     border: 2px solid #003300;
+    box-shadow: 2px 5px 2px gray;
+    cursor: pointer;
+     font-size: 2vh;
+}
+h3{
+    margin: 0;
+    text-align: center;
+    
+}

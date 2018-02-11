@@ -1,0 +1,223 @@
+
+body{
+    background-color: aliceblue;
+    margin: 0;
+}
+header{
+    width: 100%;
+    height:210px;
+    margin: 0;
+}
+#topsection{
+    height: 180px;
+    margin: 0;
+    background-image: url(wallpaper.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100;
+    text-align: center;
+    font-family:serif;
+    line-height: 1.2em;
+    font-weight: 1000;
+    font-size: 5vh;
+    color:white;
+    text-shadow: blue;
+    padding: 30px;
+     margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+.headingslogan{
+    width: 100;
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 1.5em;
+    font-weight: 200;
+    color:white;
+    margin: 0;
+}
+
+#nav_section{
+    width: 100%;
+    float:left;
+    
+}
+.list_section li{
+    list-style-type:none;
+    display:inline;
+    font-size: 3vh;
+    color:darkred;
+    text-decoration: none;
+    display: inline-block;
+}
+.list_section a{
+    list-style-type:none;
+    display:inline;
+    font-size: 3vh;
+    color:darkred;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+.list_section a:hover{
+    background-color:#0000b3;
+    
+}
+
+
+.mainhouses{
+    width: 80%;
+    border: 2px darkred;
+    border-style: double;
+    margin: 6vh auto;
+    height: 105vh;
+    background-image: url(maxresdefault.jpg);
+     background-position: center;
+    background-size: cover;
+    box-shadow: 5px 10px 5px #888888;
+    
+}
+.w3-center{
+   text-align: center;
+    font-size: 5vh;
+    font-style: italic;
+    font-family: serif;
+    color:darkred;
+    width: 40%;
+    font-weight: 800;
+    margin: 5vh auto;
+      justify-content: center;
+    align-items: center;
+}
+.w3-content{
+    margin: 1vh auto;
+    height: 80vh;
+    
+}
+.w3-content img{
+    margin: auto;
+    height: 70vh;
+    border-color: darkred;
+    border-style: ridge;
+    border-width: 2px;
+    box-shadow: 5px 10px 5px #888888;
+
+}
+.w3-content h1{
+    font-style: italic;
+    font-size: 5vh;
+    text-align: center;    
+    text-decoration: none;
+      justify-content: center;
+    align-items: center;
+}
+.w3-content h1:hover{
+    background-color:  #b3ffff;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+
+
+
+
+
+
+
+.featurecontent{
+    margin: auto;
+    width: 100%;
+}
+.col4{
+   width: 25%;
+    float: left;
+    height: 60vh;
+    border-color:black;
+    border-radius: 10px;
+    border-style: ridge;
+    border-width: 2px;
+    margin:4px;
+    margin-left:14px;
+}
+.col4:hover{
+    background-color: #66ccff;
+    opacity: 0.7;
+}
+.featurecontent .col4{
+    
+    width: 23%;
+}
+.featurecontent .col4 img{
+    width:100%;
+    height: 40vh; 
+}
+
+.featurecontent .col4 p{
+    width:100%;
+    height: 7vh;
+    text-align: center;
+    font-size: 2vh;
+    text-decoration:none;
+      justify-content: center;
+    align-items: center;
+}
+.featurecontent .col4 .buynow{
+    font-style: italic;
+    font-size: 3vh;
+    text-decoration:none;
+      justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+#fottercontainer{
+    height: 60vh;
+    background-image: url(19-nature-photography-forest.preview.jpg);
+    clear: both;
+}
+.socialfooter{
+    width: 33%;
+    float: left;
+    height: 40%;
+    margin-bottom: 6vh;
+}
+.socialfooter:hover{
+    background-color: black;
+    opacity: 0.5;
+}
+.image{
+    width: 15vh;
+    height: 15vh;
+    
+   margin: 6vh auto; 
+}
+.image img{
+    width: 15vh;
+    height: 15vh;
+}
+.copyright{
+    padding: 50px 0px 0px 0px;
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: .9em;
+}
+.endsection{
+    padding-top: 20px;
+     width: 70%;
+    margin: auto;
+    text-align: center;
+    font-weight: 400;
+    line-height: .9em;
+}
+
+
